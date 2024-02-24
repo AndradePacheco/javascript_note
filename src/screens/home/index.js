@@ -25,7 +25,7 @@ const HomeScreen = () => {
                             Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print.
                         </Title>
                         <Link to="/register" className='button is-outlined is-while is-large'>
-                            <strong>Register for free Now</strong>
+                            <strong>Register for free Now (Developed By: Andrade Samuel)</strong>
                         </Link>
                     </Column>
                     <Column size={6} offset={1}>
